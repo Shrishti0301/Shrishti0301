@@ -9,7 +9,7 @@
 
 - Project 3: **Global car manufacturer's using Python**
 
-- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/shrishti-k-b7a292280/ and https://github.com/Shrishti0301
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/shrishti-k-b7a292280/ and https://github.com/Shrishti0301?tab=projects
 - 📫 How to reach me **srishtikurgod6633@gmail.com / shrishtivk5501@gmail.com**
 
 - 📄 Know about my experiences [https://shrishticv.tiiny.site](https://shrishticv.tiiny.site)
