@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrishti</h1>
-<h3 align="center">A passionate data analytics from India (Certified Data Analysts from NIIT)</h3>
+<h3 align="center">A Certified Data Analysts from NIIT</h3>
 
 <h3 align="left">PROJECTS:</h3>
 
