@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shrishti</h1>
 <h3 align="center">A passionate data analytics from India</h3>
-
+PROJECTS:
 - Project 1: **Smart phone sales analysis using Python, MySQL and Tableau**
 
 - Project 2: **Football analysis using Python, MySQL and Tableau**
 
 - Project 3: **Global car manufacturer's using Python**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shrishti-k-b7a292280/](https://www.linkedin.com/in/shrishti-k-b7a292280/)
+- 👨‍💻 All of my projects are available at: [https://www.linkedin.com/in/shrishti-k-b7a292280/](https://www.linkedin.com/in/shrishti-k-b7a292280/)
 
-- 📫 How to reach me **srishtikurgod6633@gmail.com / shrishtivk5501@gmail.com**
+- 📫 How to reach me: **srishtikurgod6633@gmail.com / shrishtivk5501@gmail.com**
 
-- 📄 Know about my experiences [https://shrishticv.tiiny.site](https://shrishticv.tiiny.site)
+- 📄 Know about my experiences: [https://shrishticv.tiiny.site](https://shrishticv.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
