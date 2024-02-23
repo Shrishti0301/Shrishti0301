@@ -9,6 +9,8 @@
 
 - Project 3: **Global car manufacturer's using Python**
 
+- Project 4: **Hotel Booking Analysis(EDA)**
+
 - 👨‍💻 All of my projects are available at https://github.com/Shrishti0301?tab=projects and https://www.linkedin.com/in/shrishti-k-b7a292280/
 - 📫 How to reach me **srishtikurgod6633@gmail.com / shrishtivk5501@gmail.com**
 
