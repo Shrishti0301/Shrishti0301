@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Shrishti</h1>
-<h3 align="center">A passionate data analytics from India</h3>
-PROJECTS:
+<h3 align="center">A passionate data analytics from India (Certified Data Analysts from NIIT)</h3>
+
+<h3 align="left">PROJECTS:</h3>
+
 - Project 1: **Smart phone sales analysis using Python, MySQL and Tableau**
 
 - Project 2: **Football analysis using Python, MySQL and Tableau**
 
 - Project 3: **Global car manufacturer's using Python**
 
-- 👨‍💻 All of my projects are available at: [https://www.linkedin.com/in/shrishti-k-b7a292280/](https://www.linkedin.com/in/shrishti-k-b7a292280/)
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/shrishti-k-b7a & https://github.com/Shrishti0301292280
+- 📫 How to reach me **srishtikurgod6633@gmail.com / shrishtivk5501@gmail.com**
 
-- 📫 How to reach me: **srishtikurgod6633@gmail.com / shrishtivk5501@gmail.com**
-
-- 📄 Know about my experiences: [https://shrishticv.tiiny.site](https://shrishticv.tiiny.site)
+- 📄 Know about my experiences [https://shrishticv.tiiny.site](https://shrishticv.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shrishti-k-b7a292280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shrishti-k-b7a292280/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@srishtikurgod661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@srishtikurgod661" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
